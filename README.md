@@ -1,1 +1,1 @@
-# UniversityofLodzMaster
+# Game of Life Project
